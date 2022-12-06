@@ -1,5 +1,8 @@
 # TeXstudio_M1
 TeXstudio compiled (with poppler) for Apple M1
+
+If you are not scared of being hacked, here is the dmg:
+https://drive.google.com/file/d/1xfFxPTWIT9c0aQ7EnP1WY5T50Awi25lt/view?usp=sharing
 # Howto (briefly)
   1. Download poppler tarball from https://poppler.freedesktop.org/, extract it, build it and install system-wide.
   2. Install qt6 via brew.
